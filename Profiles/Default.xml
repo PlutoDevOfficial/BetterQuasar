@@ -1,0 +1,35 @@
+<settings>
+  <Tag>scfhsdughdj</Tag>
+  <Hosts>127.0.0.1:2444;</Hosts>
+  <Delay>500</Delay>
+  <Mutex>b40d6fdf-270e-40b6-b156-90e1aaad8dcb</Mutex>
+  <UnattendedMode>True</UnattendedMode>
+  <InstallClient>False</InstallClient>
+  <InstallName>Client</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>False</AddStartup>
+  <RegistryName>Quasar Client Startup</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>False</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>vgvf</ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>1.2.3.4</ProductVersion>
+  <FileVersion>1.2.3.4</FileVersion>
+</settings>
